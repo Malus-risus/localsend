@@ -38,7 +38,7 @@ dependencies:
   logging: 1.2.0
   mime: 1.0.4
   network_info_plus: 4.1.0
-  open_filex: 4.3.4
+  open_filex: 4.4.0
   package_info_plus: 4.2.0
   pasteboard: ^0.2.0
   path: 1.8.3
