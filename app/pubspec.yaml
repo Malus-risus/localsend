@@ -51,7 +51,7 @@ dependencies:
   routerino: 0.8.0
   saf_stream: 0.4.0 # Saving files to SD card for Android <11
   screen_retriever: 0.1.9
-  share_handler: 0.0.19
+  share_handler: 0.0.21
   share_handler_ios: 0.0.12 # Keep iOS <14 support
   shared_preferences: 2.2.2
   shared_preferences_platform_interface: any
