@@ -19,7 +19,7 @@ dependencies:
   dart_mappable: 4.2.0
   desktop_drop: 0.4.4
   device_apps: 2.2.0
-  device_info_plus: 9.1.2
+  device_info_plus: 10.1.2
   dio: 5.4.1
   dynamic_color: 1.6.9
   file_picker: 6.1.1
