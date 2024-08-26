@@ -37,7 +37,7 @@ dependencies:
   launch_at_startup: 0.2.2
   logging: 1.2.0
   macos_dock_progress: ^1.0.0
-  mime: 1.0.4
+  mime: 1.0.6
   network_info_plus: 4.1.0+1
   open_filex: 4.4.0
   package_info_plus: 4.2.0
