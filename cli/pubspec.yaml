@@ -10,7 +10,7 @@ dependencies:
   args: 2.4.2
   common:
     path: ../common
-  path: 1.9.0
+  path: 1.9.1
 
 dev_dependencies:
   lints: ^3.0.0
