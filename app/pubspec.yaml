@@ -16,7 +16,7 @@ dependencies:
   common:
     path: ../common
   connectivity_plus: 5.0.2
-  dart_mappable: 4.2.0
+  dart_mappable: 4.3.0
   desktop_drop: 0.4.4
   device_apps: 2.2.0
   device_info_plus: 9.1.2
